@@ -4,7 +4,7 @@ Hello, World!
 
 This is interesting!
 
-follow [this link](./)
+follow [this link](./README.md)
 
 Using local workflow is simple:
 
